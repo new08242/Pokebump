@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>wobuffetSheet.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{182,108}}</string>
+                <key>offset</key>
+                <string>{2,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{14,4},{182,108}}</string>
+                <key>sourceSize</key>
+                <string>{206,118}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>wobuffetPlist.png</string>
+            <key>size</key>
+            <string>{128,256}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:8e63098cb7214ca6d8119fe2e70d77f6:823e228c7d45aa3bc29e6530dda01559:0b8d384745e31d3c91e738c95ac18753$</string>
+            <key>textureFileName</key>
+            <string>wobuffetPlist.png</string>
+        </dict>
+    </dict>
+</plist>

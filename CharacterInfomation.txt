@@ -1,0 +1,34 @@
+Character:
+
+----Style:
+
+--------Counter:(Focus on protecting and reflect damage)
+------------Sonas(Wobuffet): 
+	- Mirror coat: Reflect all special damage and reflect phy damage 	  	once then disappear. 75 pow cost
+
+	- Protect: Defend all phy damage ,but special damage once then  disappear. 55 pow cost
+
+	- Splash:  Provoke other player and heal your self for 3 points. 
+3 pow cost.
+
+--------Speed:(Focus on mobility and hit other by dashing to them)
+------------Pikachu:
+	- Lighting strike: charging aiming then dash forward with lighting speed do phy damage and special damage to everything it hit and leave them paralyze for a short time. 90 pow cost.
+
+	- Static coat: release electric field to do special damage and make your self become electricfy for a moderate of time to increse speed and do little special damage when hit and have very little chance to paralyze foe. 55 pow cost.
+
+	- Dash: dash forward with high speed and do more damage when hit. 15 pow cost
+	
+--------Special Atk:(Focus on using special attack to dealing damage)
+------------Lizardon:
+
+--------Balance:(various ability)
+------------Venesaur:
+	- Solar beam: Do spacial damage on hit very powerful (need to charge power to Max to use). Max pow to use.
+
+	- Vine whip: Do small phy damage and stop a foe from moving and release when foe is damaged or try to move for a long time.35 pow cost.
+
+	- tackle: brace yourself and crash your opponet increse you damage for one crash hit. 25 pow cost.
+
+--------Chaos:(Focus on dealing abnormal status to other)
+------------Haunter:

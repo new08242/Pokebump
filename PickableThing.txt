@@ -1,0 +1,11 @@
+Candy: +1score +5health and power
+
+Gold candy: +10score +15health +30power
+
+Protein: +atk for a hit +10health +10power
+
+Carbos: +speed +10health +10power
+
+Hp Up: +max Hp +10health +10power
+
+PP max: +max Power +10health +10power

@@ -1,0 +1,42 @@
+-resize map and modify solar beam
+	start 9/4/2557 23:16
+	end 10/4/2557 1:21
+
+-add boundary of falling out of the arena
+	start 10/4/2557 21:08
+	end 10/4/2557 22:13
+
+-rename Gold to be Pickable
+	start 12/4/2557 1:37
+	end 12/4/2557 1:55
+
+-add more pickable things
+	start 12/4/2557 17:30
+	end 12/4/2557 18:16
+
+	continue:
+	start 15/4/2557 15:34
+	end 15/4/2557 17:12
+	
+	continue:
+	start 19/4/2557 21:25
+	end 19/4/2557 21:59
+
+	continue:
+	start 20/4/2557 1:17
+	end 20/4/2557 3:23
+
+-add more skill
+	start 
+	end 
+	
+	continue:
+	start
+
+-add timer
+	start 19/4/2557 18:11
+	end 19/4/2557 19:05
+
+	continue:
+	start 19/4/2557 20:23
+	end 19/4/2557 21:04

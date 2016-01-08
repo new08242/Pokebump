@@ -1,0 +1,1 @@
+When spawn in the middle of the arena sprite is struck to other and can't move.
