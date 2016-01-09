@@ -63,7 +63,6 @@ var StartmenuLayer = cc.LayerColor.extend({
 
 		this.characrter3 = cc.Sprite.create('images/haunter.gif');
 		this.characrter3.setPosition(1080,560);
-		this.characrter3.setRotation(-90);
 		this.characrter3.setScale(0.6);
 		this.addChild(this.characrter3,1);
 
