@@ -34,8 +34,9 @@
             'src/Protect.js',
             'src/Splash.js',
             'src/Startmenu.js',
-            'src/Instruction.js',
-            'src/Scorescene.js'    //add your own files in order here
+            'src/GainFocusScene.js'
+            //'src/Instruction.js',
+            //'src/Scorescene.js'    //add your own files in order here
         ]
     };
 

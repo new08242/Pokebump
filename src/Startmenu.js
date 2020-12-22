@@ -113,12 +113,13 @@ var StartmenuLayer = cc.LayerColor.extend({
         }
         if ( e == 13 ) {
         	var ran = Math.random();
-			if(ran < 0.5){
-				cc.AudioEngine.getInstance().playEffect( 'effects/Click.m4a' );
-			}
-			else{
-				cc.AudioEngine.getInstance().playEffect( 'effects/Click2.m4a' );
-			}
+					if(ran < 0.5){
+						cc.AudioEngine.getInstance().playEffect( 'effects/Click.m4a' );
+					}
+					else{
+						cc.AudioEngine.getInstance().playEffect( 'effects/Click2.m4a' );
+					}
+					
         	cc.AudioEngine.getInstance().stopMusic();
         	var director = cc.Director.getInstance();
         	if(this.cursorpos == 1){
@@ -129,7 +130,7 @@ var StartmenuLayer = cc.LayerColor.extend({
         	}
         }
 	},
-	update: function (){
+	update: function() {
 
 		if(this.degree <= 360){
 			this.degree+=2.5;
